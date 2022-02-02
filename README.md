@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello, I'm Nick Bui! 👋
 
-<!--
-**nickbui/nickbui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent Penn State University graduate looking to start my career as a Software Engineer. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on getting my first job as a Software Engineer
+- 🌱 I’m currently learning JavaScript and AWS
+- 👯 I’m looking to collaborate on any coding projects
+- 🤔 I’m looking for help with job searching and becoming a better Software Engineer
+- 💬 Ask me about anything! Reach out to me even if you just want to chat
+- 📫 How to reach me: nicholas.t.bui@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am deathly afraid of squirrels due to a tramatic childhood experience. 
